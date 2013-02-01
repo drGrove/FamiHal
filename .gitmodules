@@ -1,0 +1,21 @@
+[submodule "js/lib/backbone"]
+	path = js/lib/backbone
+	url = https://github.com/documentcloud/backbone.git
+[submodule "js/lib/require"]
+	path = js/lib/require
+	url = https://github.com/jrburke/requirejs.git
+[submodule "js/lib/require_text"]
+	path = js/lib/require_text
+	url = https://github.com/requirejs/text.git
+[submodule "js/lib/backbone.marrionette"]
+	path = js/lib/backbone.marrionette
+	url = https://github.com/derickbailey/backbone.marionette.git
+[submodule "js/lib/handlebars"]
+	path = js/lib/handlebars
+	url = https://github.com/wycats/handlebars.js.git
+[submodule "js/lib/less"]
+	path = js/lib/less
+	url = https://github.com/cloudhead/less.js.git
+[submodule "js/lib/jquery"]
+	path = js/lib/jquery
+	url = https://github.com/jquery/jquery.git
