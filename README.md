@@ -19,3 +19,6 @@ TODO:
 	Randoms?
 		Ability to send files to 3D printers and Laser Cutter
 		Ability to see what's being printed/cut	
+
+Written in Python with web interface (front-end) Backbone.JS
+
