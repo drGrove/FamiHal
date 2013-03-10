@@ -9,7 +9,7 @@ var config = {
     channels: ['#4amchan', '#familab']
 };
 
-var famiHal = new irc.Client(config.host, config.nick, {channels: config.channels})
+var famiHalBot = new irc.Client(config.host, config.nick, {channels: config.channels})
 
 famiHal.addListener("join", function(channel, who) {
     if(channel == "#4amchan")
@@ -22,4 +22,7 @@ famiHal.addListener("join", function(channel, who) {
 famiHal.addListener('error', function(message) {
     console.log('error', mesage)
 })
+
+
+exports.famiHalBot = famiHal
 
