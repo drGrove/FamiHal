@@ -5,6 +5,9 @@ Hal 9000 for Familab
 
 Automation System For Familab
 
+## To be Used with Hacker Tracker
+http://github.com/drGrove/hackerTracker
+
 
 TODO:
 	Link with Door to find who is at lab
@@ -20,5 +23,5 @@ TODO:
 		Ability to send files to 3D printers and Laser Cutter
 		Ability to see what's being printed/cut	
 
-Written in Python with web interface (front-end) Backbone.JS
+
 
